@@ -93,7 +93,7 @@ WALLET AI leverages **ERC-4337 account abstraction** to provide programmable, fl
 | **P256R1 Verifier** | [0xb30001fBD7aD144348C6c0739e8fF5339a49b845](https://pharosscan.xyz/address/0xb30001fBD7aD144348C6c0739e8fF5339a49b845) |
 | **Account Factory** | [0x589013711Ea4243407602ccc5529f75c0334cd81](https://pharosscan.xyz/address/0x589013711Ea4243407602ccc5529f75c0334cd81) |
 
-🔗 [Watch Demo Video](https://youtu.be/E6VD8-D2hMU)
+🔗 [Watch Demo Video](https://youtu.be/jQ8ez_tX0-0)
 
 ---
 
@@ -197,9 +197,9 @@ PAYMASTER_PORT=3001
 
 ## 🌐 Supported Chains
 
-| Chain              | Chain ID | EntryPoint Address                           |
-| ------------------ | -------- | -------------------------------------------- |
-| Swellchain Sepolia | 1924     | `0x2ae470412F8b53E263C8F967E9679e4830a2643A` |
+| Chain        | Chain ID | EntryPoint Address                           |
+| ------------ | -------- | -------------------------------------------- |
+| Pharos chain | 5002     | `0x2ae470412F8b53E263C8F967E9679e4830a2643A` |
 
 ---
 
